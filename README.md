@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @afterallafk
 - 👀 I’m interested in ... Building Roms and a Dream to Maintain A Rom Officially 
 - 🌱 I’m currently doing... B.Tech Course in ECE Branch   
-- 📫 How to reach me ...U can Reach me on telegram as @afterallafk , Follow me Instagram @andro_aditya25
+- 📫 How to reach me ...U can Reach me on telegram as @afterallafk , Follow me Instagram @ig.adityasingh
 
 <!---
 afterallafk/afterallafk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
