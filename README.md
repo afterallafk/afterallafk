@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @afterallafk
 - 👀 I’m interested in ... Building Roms
-- Currently Voltage OS Official Maintainer for Redmi 7/Y3
+- Currently Voltage OS, Pixel Extended Official Maintainer for Redmi 7/Y3
 - 🌱 I’m currently doing... B.Tech Course in ECE Branch   
 - 📫 How to reach me ...U can Reach me on telegram as @afterallafk , Follow me Instagram @ig.adityasingh
 
