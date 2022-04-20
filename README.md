@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @afterallafk < A D I T Y A />
 - 👀 I’m interested in ... Building ROMS
-- Founder of ProjectBlaze
 - I am learning C++ and seeking to start learning DSA.
 - Currently Voltage OS, Pixel Extended Official Maintainer for Redmi 7/Y3
 - 🌱 I’m currently doing... B.Tech Course in ECE Branch from Madan Mohan Malviya University of Technology, Gorakhpur, UP
