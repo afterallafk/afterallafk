@@ -25,8 +25,10 @@
 ---
 
 ### :woman_technologist: About Me :
-- :telescope: Hi, I am Aditya Pratap Singh ! Currently pursuing B.Tech Course in ECE Branch from MMMUT, Gorakhpur.
-
+- :telescope: Hi ! I am Aditya Pratap Singh. 
+- :telescope: I have completed my High School and Intermediate from Central Academy, Lucknow, Uttar Pradesh.
+- :telescope: I am a B.Tech undergrad in ECE Branch from Madan Mohan Malaviya University of Technology, Gorakhpur, Uttar Pradesh
+- :telescope: I am maintaining Pixel Extended, Voltage OS and Project Blaze as Official for Redmi Y3/7.
 - :zap: In my free time, I listen music, learn about new tech stuffs and enhance my knowledge, and work upon my Android OS Project
 
 - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-afterallafk-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/afterallafk), [![Instagram Badge](https://img.shields.io/badge/-ig.adityasingh-black?style=flat&logo=Instagram&logoColor=purple)](https://www.instagram.com/ig.adityasingh/)
