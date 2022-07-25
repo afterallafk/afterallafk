@@ -1,5 +1,5 @@
 # 💫 About Me:
-- Hi ! I am Aditya Pratap Singh.<br>- I live in Lucknow, Uttar Pradesh, India.<br>-I have completed my high school and intermediate from Central Academy Senior Secondary School, Lucknow, Uttar Pradesh.<br>- I am currently doing B.Tech in Electronics and Communication Engineering branch from Madan Mohan Malaviya University of Technology, Gorakhpur, Uttar Pradesh.<br>- I know C++, beginner in Java.<br>- I am the founder of @ProjectBlaze Android OS.<br>- I love to listen music and explore new tech stuffs in my free time.<br>- Currently maintainer of Pixel Extended & Voltage OS for Redmi Y3/7.
+- Hi ! I am Aditya Pratap Singh.<br> - I live in Lucknow, Uttar Pradesh, India.<br>-I have completed my high school and intermediate from Central Academy Senior Secondary School, Lucknow, Uttar Pradesh.<br>- I am currently doing B.Tech in Electronics and Communication Engineering branch from Madan Mohan Malaviya University of Technology, Gorakhpur, Uttar Pradesh.<br>- I know C++, beginner in Java.<br>- I am the founder of @ProjectBlaze Android OS.<br>- I love to listen music and explore new tech stuffs in my free time.<br>- Currently maintainer of Pixel Extended & Voltage OS for Redmi Y3/7.
 
 
 ## 🌐 Socials:
