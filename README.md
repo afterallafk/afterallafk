@@ -6,7 +6,7 @@
 - I know C++, beginner in Java.<br>
 - I am the founder of @ProjectBlaze Android OS.<br>
 - I love to listen music, explore new tech stuffs in my free time.<br>
-- Currently maintainer of Pixel Extended, Voltage OS & ProjectBlaze for Redmi Y3/7.
+- Currently maintainer of Pixel Extended for Redmi Note 10 Pro.
 
 
 ## 🌐 Socials:
