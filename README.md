@@ -1,10 +1,7 @@
 # 💫 About Me:
-- Hi ! I am Aditya Pratap Singh.<br>
-- I live in Lucknow, Uttar Pradesh, India.<br>
-- I have completed my high school and intermediate from Central Academy Senior Secondary School, Lucknow, Uttar Pradesh.<br>
-- I have completed my B.Tech in Electronics and Communication Engineering from Madan Mohan Malaviya University of Technology, Gorakhpur, Uttar Pradesh.<br>
+- Hi ! I am Aditya Pratap Singh from Lucknow, Uttar Pradesh, India.<br>
 - I have completed my M.Tech in Intelligent Communication System at Indian Institute of Technology(IIT), Jodhpur.<br>
-- I know C++ with some basics of java.<br>
+- I have completed my B.Tech in Electronics and Communication Engineering from Madan Mohan Malaviya University of Technology, Gorakhpur, Uttar Pradesh.<br>
 - I own @ProjectBlaze Android OS.<br>
 - I love to listen music, explore new tech stuffs in my free time.<br>
 - Ex-maintainer of Pixel Extended for Redmi Note 10 Pro.
