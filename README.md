@@ -1,10 +1,13 @@
 # 💫 About Me:
-- Hi ! I am Aditya Pratap Singh from Lucknow, Uttar Pradesh, India.<br>
-- I have completed my M.Tech in Intelligent Communication System at Indian Institute of Technology (IIT), Jodhpur.<br>
-- I have completed my B.Tech in Electronics and Communication Engineering from Madan Mohan Malaviya University of Technology (MMMUT), Gorakhpur, Uttar Pradesh.<br>
-- I own @ProjectBlaze Android OS.<br>
-- I love to listen music, explore new tech stuffs in my free time.<br>
-- Ex-maintainer of Pixel Extended for Redmi Note 10 Pro.
+
+* Hi! I’m Aditya Pratap Singh from Lucknow, Uttar Pradesh, India.<br>
+* I am currently pursuing a Ph.D. in Wireless Communications at the Indian Institute of Technology (IIT), Kanpur.<br>
+* I completed my M.Tech in Intelligent Communication System from the Indian Institute of Technology (IIT), Jodhpur.<br>
+* I completed my B.Tech in Electronics and Communication Engineering from Madan Mohan Malaviya University of Technology (MMMUT), Gorakhpur, Uttar Pradesh.<br>
+* My research interests revolve around wireless networks, 5G/6G communications, O-RAN, and intelligent resource allocation.<br>
+* I am the founder and developer of @ProjectBlaze, an Android OS project focused on building and maintaining custom Android experiences.<br>
+* Former maintainer of Pixel Extended for the Redmi Note 10 Pro, contributing to the custom ROM community and Android development ecosystem.<br>
+* I enjoy exploring emerging technologies, experimenting with new ideas, and listening to music in my free time.<br>
 
 
 ## 🌐 Socials:
